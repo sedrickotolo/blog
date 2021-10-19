@@ -134,7 +134,7 @@
 <footer class="footer footer-inverse">
       <div class="container">
         <div class="text-center">
-          <small>Blog Admin 2020 | Brought To You By <a href="https://www.youtube.com/channel/UCsFgC9ggwrmYR2XqEHXpbNg/">Ser Bermz</a></small>
+          <small>Blog Admin 2020 | Brought To You By <a href="https://www.youtube.com/channel/UCsFgC9ggwrmYR2XqEHXpbNg/">KaKebe Technologies</a></small>
         </div>
       </div>
     </footer>
