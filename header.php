@@ -76,9 +76,9 @@
 									<?php getcategoriesmenu("blog_categories"); ?>
 								</div>
 							</li>
-							<li class="nav-item">
+							<!-- <li class="nav-item">
 								<a class="nav-link" href="contact.php">Contact</a>
-							</li>
+							</li> -->
 
 						</ul>
 							<form action="search.php" method="post" class="form-inline my-2 my-lg-0 header-search" name="form">
