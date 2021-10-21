@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-md-4 logo text-left">
 					<a class="navbar-brand" href="index.php">
-						<i class="fab fa-linod"></i>Purewish</a>
+						<i class="fab fa-linode"></i> BLOG SITE</a>
 				</div>
 				<div class="col-md-4 top-forms text-center mt-lg-3 mt-md-1 mt-0">
 					<span>Welcome Back!</span>
@@ -76,9 +76,9 @@
 									<?php getcategoriesmenu("blog_categories"); ?>
 								</div>
 							</li>
-							<!-- <li class="nav-item">
+							<li class="nav-item">
 								<a class="nav-link" href="contact.php">Contact</a>
-							</li> -->
+							</li>
 
 						</ul>
 							<form action="search.php" method="post" class="form-inline my-2 my-lg-0 header-search" name="form">
