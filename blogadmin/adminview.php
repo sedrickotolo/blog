@@ -8,7 +8,7 @@
                   </div>
                   <div class="col-xs-6 text-right">
                     <p class="announcement-heading"><?php admincounter("titles");?></p>
-                    <p class="announcement-text"><strong>Web Details!</strong></p>
+                    <p class="announcement-text"><strong>Web Details</strong></p>
                   </div>
                 </div>
               </div>
