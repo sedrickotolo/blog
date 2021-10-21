@@ -70,7 +70,7 @@
 				<!--right-->
 				<aside class="col-lg-4 agileits-w3ls-right-blog-con text-right">
 					<div class="right-blog-info text-left">
-						<h4><strong>Categories of Blog</strong></h4>
+						<h4><strong>Categories</strong></h4>
 						<ul class="list-group single">
 							<?php countcategories();?>
 						</ul>
